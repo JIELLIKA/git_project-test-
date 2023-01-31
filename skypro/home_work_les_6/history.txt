@@ -1,0 +1,4 @@
+Alexei:10
+Gorg:20
+Mark:30
+Paul:10

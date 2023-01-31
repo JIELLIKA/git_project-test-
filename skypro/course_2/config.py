@@ -1,0 +1,1 @@
+WORDS_JSON_SOURCE = "https://www.jsonkeeper.com/b/U9MS"
