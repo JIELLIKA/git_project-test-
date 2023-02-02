@@ -1,2 +1,3 @@
-from funcs import razn
-razn()
+from funcs import sum
+sum()
+
